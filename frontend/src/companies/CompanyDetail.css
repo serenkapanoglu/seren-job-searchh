@@ -1,0 +1,21 @@
+/* CompanyDetail.css */
+
+.CompanyDetail {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  
+    .company-name{
+      color: black;
+      font-weight: 700;
+      font-size: 35px;
+    }
+  
+    .company-p {
+      font-size: 18px;
+      color: #555;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+  }
+  

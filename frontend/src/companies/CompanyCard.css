@@ -1,0 +1,48 @@
+/* CompanyCard.css */
+
+.CompanyCard {
+    text-decoration: none;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+    margin-top: 20px;
+  
+  
+    /* Style for the card title */
+    .card-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 24px;
+      margin-bottom: 10px;
+      font-weight: 900;
+      color: blue;
+    }
+      /* Style for the logo image */
+      .logo-url {
+        max-width: 50px;
+        max-height: 50px;
+        margin-left: 10px;
+        border-radius: 5px;
+      }
+    
+    /* Style for the description */
+    .paragraph {
+      font-size: 18px;
+      color: black;
+      font-weight: 500;
+    }
+    .logo-url {
+        max-width: 100px; /* Adjust the max-width to make the image larger */
+        max-height: 100px; /* Adjust the max-height to make the image larger */
+        margin-left: 10px;
+        border-radius: 5px;
+      }
+    /* Add hover effect */
+    &:hover {
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    }
+  }
+  

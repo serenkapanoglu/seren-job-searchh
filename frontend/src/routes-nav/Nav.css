@@ -1,0 +1,39 @@
+/* Nav.css */
+
+.nav {
+    background-color: #333; /* Background color for the navigation bar */
+    padding: 10px; /* Add some padding for a bit of spacing */
+  
+    /* Style for the brand link */
+    .brand-link {
+      color: white;
+      text-decoration: none;
+      font-size: 1.5em; /* Adjust the font size as needed */
+      font-weight: bold;
+      float: right;
+      margin-left: 15px;
+    }
+  
+    /* Style for the navigation list */
+    .nav-list {
+      list-style-type: none;
+      display: flex;
+      justify-content: space-between;
+      margin: 0;
+      padding: 0;
+      margin-left: auto;
+    }
+  
+    /* Style for each navigation item */
+    .nav-link {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px; /* Add spacing between each item */
+    }
+  
+    /* Style for the active navigation item */
+    .nav-link.active {
+      border-bottom: 2px solid white; /* Add an underline to the active item */
+    }
+  }
+  

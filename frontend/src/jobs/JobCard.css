@@ -1,0 +1,41 @@
+/* JobCard.css */
+
+.JobCard {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  transition: box-shadow 0.3s ease;
+
+
+
+  /* Style for the company name */
+ .title{
+  font-size: 20px;
+  color: red;
+
+ }
+
+  /* Style for the salary */
+  .salary {
+    color: #333;
+    margin:20px 10px;
+    font-weight: 700;
+  }
+
+  /* Style for the equity */
+  .equity {
+    color: #333;
+    margin:20px 10px;
+    font-weight: 700;
+  }
+
+  /* Style for the apply button */
+ 
+
+  
+    
+  }
+
+ 
+
