@@ -1,9 +1,0 @@
-.Nav {
-    background-color: white;
-    border-bottom: 2px solid rgba(0, 0, 0, 0.125);
-  }
-  
-  .nav-link.active {
-    font-weight: bold;
-    color: black;
-  }
