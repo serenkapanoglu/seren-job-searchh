@@ -39,23 +39,23 @@ The Job Finder App is a full-stack web application designed to streamline the jo
 ## 4. Job Application Workflow
 
 - **Apply for Jobs**: Users can apply for jobs directly through the app. The "Apply" button dynamically changes to "Applied" upon successful submission.
-  <br><br/><br>
+  <br/><br>
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.18.01%20AM.png" />
   <br><br/>
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.18.40%20AM.png" />
-<br/>
+<br><br/>
 
 ## 5. Company Details Page
 
 - **Comprehensive Company Information**: Users can explore detailed information about a specific company, including its name, description, and a list of available jobs.
-  <br><br/><br>
+ <br/><br>
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.18.24%20AM.png" />
-<br/>
+ <br><br/>
 
 ## 6. Profile Management
 
 - **User Profiles**: Users have personalized profiles where they can view and update their account information, providing a centralized hub for managing their interactions with the platform.
-
+<br/><br>
 <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.18.53%20AM.png" />
 <br><br/>
 <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.19.08%20AM.png" />
