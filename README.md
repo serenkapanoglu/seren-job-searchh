@@ -78,5 +78,5 @@ The Job Finder App is a full-stack web application designed to streamline the jo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/job-finder-app.git
-   cd job-finder-app
+   git clone https://github.com/serenkapanoglu/seren-job-searchh.git
+   cd seren-job-searchh
