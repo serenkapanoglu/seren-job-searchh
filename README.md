@@ -14,7 +14,7 @@ The Job Finder App is a full-stack web application designed to streamline the jo
 ## 1. User Authentication
 
 - **Sign Up and Login**: Users can create accounts by signing up with their email and password. Subsequently, they can log in securely using JWT tokens.
-  <br><br/><br><br/>
+  <br><br/>
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.16.59%20AM.png?raw=true" />
   <br><br/>
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.17.09%20AM.png" />
@@ -30,7 +30,7 @@ The Job Finder App is a full-stack web application designed to streamline the jo
 ## 3. Search Functionality
 
 - **Dynamic Search**: Users can search for specific jobs or companies using the search functionality available on both the Jobs and Companies pages.
-  
+  <br><br/>
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.17.48%20AM.png" />
   <br><br/>
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/images/Screen%20Shot%202024-01-09%20at%202.18.11%20AM.png" />
