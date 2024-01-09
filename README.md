@@ -62,8 +62,7 @@ The Job Finder App is a full-stack web application designed to streamline the jo
 <br><br/>
 
 ## 7. Responsive Design
-- **Mobile-Friendly**: The app is designed with a responsive layout, ensuring a seamless user experience across various devices and screen sizes.
-
+- **Mobile-Friendly**: The app is designed with a responsive layout, ensuring a seamless user experience across various devices and screen sizes. 
 
 
 ## Getting Started
