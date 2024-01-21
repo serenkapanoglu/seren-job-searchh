@@ -2,9 +2,7 @@
 
 The Job Finder App is a full-stack web application designed to streamline the job search process. Built with React, Bootstrap, NodeJS, Express, PostgreSQL, and JWT authentication, this app offers a range of features to enhance the user experience.
 
-###
-## Demo
-Live["https://jobfinder-n907.onrender.com/"]
+## Check out the live demo: [Live Demo](https://jobfinder-n907.onrender.com/)
 
 
 ## Tech Stack
