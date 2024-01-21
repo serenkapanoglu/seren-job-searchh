@@ -11,7 +11,7 @@ The Job Finder App is a full-stack web application designed to streamline the jo
 
 ## Database
   <img src="https://github.com/serenkapanoglu/seren-job-searchh/blob/main/Screen%20Shot%202024-01-09%20at%202.48.33%20AM.png"/>
-## <p align="center">Key Features</p>
+ <p align="center">Key Features</p>
 
 ## 1. User Authentication
 
