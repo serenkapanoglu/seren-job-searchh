@@ -8,10 +8,7 @@ The Job Finder App is a full-stack web application designed to streamline the jo
 - Backend: NodeJS, Express
 - Database: PostgreSQL
 - Authentication: JWT
-
-## Live Demo
-Check out the live demo [here](https://jobfinder-n907.onrender.com/).
-
+  
 ## <p align="center">Key Features</p>
 
 ## 1. User Authentication

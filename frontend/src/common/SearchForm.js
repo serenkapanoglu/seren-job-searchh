@@ -30,8 +30,8 @@ function SearchForm({ searchFor }) {
               value={searchTerm}
               onChange={handleChange}
           />
-          <button type="submit" className="btn">
-            Submit
+          <button type="submit" className="submitForm">
+            Search
           </button>
         </form>
       </div>

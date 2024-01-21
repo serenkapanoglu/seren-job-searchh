@@ -1,6 +1,36 @@
 .SearchForm{
-    margin: 0 10px;
+    width: 600px; /* Set the width of your div */
+    margin: 10px auto;
+
+    display: flex;
+  align-items: center;
+
 }
+.form-inline {
+    display: flex;
+    gap: 10px; /* İki öğe arasındaki boşluk */
+  }
+
 .form-control{
     margin: 10px auto;
+}
+.submitForm{
+    color:#2D2514;
+    width: 350px; /* Set the width of your div */
+    margin: 7px; 
+   display: block; /* Make it into a block element */
+    border: 5px none;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    background: linear-gradient(135deg, #ff85ec 0%, #84ff98 100%);
+}
+.submitForm:hover{
+    background-color:#4EBC9C;
+}
+
+.form-control{
+    
+    margin-bottom: 20px;
 }

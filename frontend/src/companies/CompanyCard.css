@@ -8,17 +8,21 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease;
     margin-top: 20px;
-  
-  
+    transition: transform 0.3s ease-in-out;
+    width: 400px;
+    
+
+   
+    
     /* Style for the card title */
     .card-title {
       display: flex;
       align-items: center;
-      justify-content: space-between;
+      justify-content: center;
       font-size: 24px;
       margin-bottom: 10px;
       font-weight: 900;
-      color: blue;
+      color: #306959;
     }
       /* Style for the logo image */
       .logo-url {
@@ -43,6 +47,17 @@
     /* Add hover effect */
     &:hover {
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+      transform: scale(1.1);
     }
+}
+  
+  .CompanyList-list{
+    display:grid;
+    width: 100%;
+    height: auto;
+    
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
   }
   
+ 
